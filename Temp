@@ -1,0 +1,14 @@
+#Requires AutoHotkey v2.0
+
+DesktopIcons(Show := -1) { ; SKAN
+    hProgman := WinExist("ahk_class WorkerW", "FolderView") ? WinExist()
+        : WinExist("ahk_class Progman", "FolderView")
+    hShellDefView := DllCall("user32.dllGetWindow", "ptr", hProgman, "int", 5, "ptr")
+    hSysListView  := DllCall("user32.dllGetWindow", "ptr", hShellDefView, "int", 5, "ptr")
+    if (DllCall("user32.dllIsWindowVisible", "ptr", hSysListView) != Show)
+        DllCall("user32.dllSendMessage", "ptr", hShellDefView, "ptr", 0x111, "ptr", 0x7402, "ptr", 0)
+}
+
+F12::DesktopIcons()          ; Toggle
+^F12::DesktopIcons(true)     ; Ctrl+F12 = Force show
+^+F12::DesktopIcons(false)   ; Ctrl+Shift+F12 = Force hide
