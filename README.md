@@ -13,16 +13,15 @@
 ![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Dxxpxm&theme=radical)
 
 <div align="center">
-  <h1>👋 Hi, I'm [Your Name]</h1>
-  <h3>Android ROM Developer | System Programmer | Open Source Enthusiast</h3>
+  <h1>👋 Hi, Me here]</h1>
+  <h3>Android ROM Developer | System Programmer | Transparency level Open Source</h3>
 </div>
 
 ## 🚀 About Me
 
 - 🔭 Working on custom Android ROMs and system-level development
 - 🌱 Learning kernel compilation, React, and advanced C/Python
-- 💻 Expertise in Android development, PC hardware, Linux systems
-- 📫 Reach me: [your-email@example.com]
+- 📫 Reach me: [deepamnaik5767@gmail.com]
 
 ## 🛠️ Tech Stack
 
@@ -36,18 +35,14 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical&langs_count=8"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dxxpxm&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dxxpxm&layout=compact&theme=radical&langs_count=8"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dxxpxm&theme=radical"/>
 </div>
-
-## 🏆 Featured Projects
-
-[![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=PROJECT_NAME&theme=radical)](https://github.com/YOUR_USERNAME/PROJECT_NAME)
 
 ## 📈 Profile Views
 
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=YOUR_USERNAME.YOUR_USERNAME)
+![Visitors](https://visitor-badge.glitch.me/badge?page_id=Dxxpxm.Dxxpxm)
