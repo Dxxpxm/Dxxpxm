@@ -13,7 +13,7 @@
 ![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Dxxpxm&theme=radical)
 
 <div align="center">
-  <h1>👋 Hi, Me here]</h1>
+  <h1>👋 Hi, Me here</h1>
   <h3>Android ROM Developer | System Programmer | Transparency level Open Source</h3>
 </div>
 
